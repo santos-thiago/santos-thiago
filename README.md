@@ -1,4 +1,4 @@
-##### Hey guys, I'm Thiago ✌🏽🌻
+##### Hey guys ✌🏽🌻
 
 
 ##### I work as a Support Technician and I am also specializing in Database because it is an area that I like and that I identify with a lot. I study English too 🗣️
