@@ -1,7 +1,7 @@
 ##### Hey guys ✌🏽🌻
 
 
-##### I work as a Support Technician and I am also specializing in Database because it is an area that I like and that I identify with a lot. I study English too 🗣️
+##### I work as a Support Technician and I'm also specializing in Database because it is an area that I like and that I identify with a lot. I study English too 🗣️
 
 ##### Here I like to attach all the exercises I use for training in SQL server, PostgreSQL, Python and MySQL.
 
