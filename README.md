@@ -19,13 +19,11 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif">
 </div>
 
-https://github.com/santos-thiago/santos-thiago
+
 
 ##
 #####
 <div>
-  <a href="https://www.linkedin.com/in/thiago-santos-cruz-31b178256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-   <a href="https://www.linkedin.com/in/thiago-santos-cruz-31b178256/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <a href="https://www.linkedin.com/in/thiago-santos-cruz-31b178256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
