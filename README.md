@@ -8,7 +8,7 @@ PERFIL EM MANUTENÇÃO ⛑
 
 
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santos-thiago&show_icons=true&theme=graywhite)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santos-thiago&show_icons=true&theme=prussian)
 
 
 
